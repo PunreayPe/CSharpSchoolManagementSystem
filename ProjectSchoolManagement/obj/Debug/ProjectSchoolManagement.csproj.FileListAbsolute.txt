@@ -1,0 +1,14 @@
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\bin\Debug\ProjectSchoolManagement.exe.config
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\bin\Debug\ProjectSchoolManagement.exe
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\bin\Debug\ProjectSchoolManagement.pdb
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.csproj.AssemblyReference.cache
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.Properties.Resources.resources
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.csproj.GenerateResource.cache
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.csproj.CoreCompileInputs.cache
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.exe
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.pdb
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.Screens.LoginForm.resources
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.Screens.MainForm.resources
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.Screens.components.Home_userControl.resources
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.Screens.components.newStudent_userControl.resources
+D:\ANTEDU\C#\ProjectSchoolManagement\ProjectSchoolManagement\obj\Debug\ProjectSchoolManagement.Screens.components.tableStu.resources
